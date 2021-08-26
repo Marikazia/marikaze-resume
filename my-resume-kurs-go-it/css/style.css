@@ -203,7 +203,7 @@ body{
 /* sidebar section */
 
 .sidebar-section{
-    background-color: #1E2939;
+    background-color: #59595e;
     width: 370px;
     padding: 40px 0;
 }
@@ -241,7 +241,7 @@ body{
 }
 
 .contact-section-link{
-    color: #3D4755;
+    color: black;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
